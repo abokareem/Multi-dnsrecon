@@ -1,5 +1,5 @@
 Mulit-DNSrecon
-
+بشتغل على مجموعة دومينات بنفس الامر 
 
 This is a simple bash script to allow multiple domain to automatically be ran against DNSrecon with ease. 
 
